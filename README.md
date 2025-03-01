@@ -1,4 +1,4 @@
-[![MasterHead](https://www.hays.net.nz/documents/3173653/3735130/Image_Tech_Job_Software_Developer_LandingPage.jpg/072b7d8a-f0f2-2ec6-d640-590cf6c74e43?t=1619015548007)
+![MasterHead](https://www.hays.net.nz/documents/3173653/3735130/Image_Tech_Job_Software_Developer_LandingPage.jpg/072b7d8a-f0f2-2ec6-d640-590cf6c74e43?t=1619015548007)
 <h1 align="center">Merhaba 👋, CasherXd</h1>
 <h3 align="center">Sağlam işler sağlam isimler.</h3>
 
